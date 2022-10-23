@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\bin\Release\FileBackuperWF.exe.config
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\bin\Release\FileBackuperWF.exe
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\bin\Release\FileBackuperWF.pdb
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\obj\Release\FileBackuperWF.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\obj\Release\FileBackuperWF.BaseForm.resources
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\obj\Release\FileBackuperWF.Properties.Resources.resources
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\obj\Release\FileBackuperWF.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\obj\Release\FileBackuperWF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\obj\Release\FileBackuperWF.exe
+C:\Users\User\source\repos\FileBackuperWF\FileBackuperWF\obj\Release\FileBackuperWF.pdb
